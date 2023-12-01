@@ -178,7 +178,7 @@ Temporary Items
 # Info: https://aws.amazon.com/serverless/sam/
 # Docs: https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-reference.html
 
-sam-app/.aws-sam
+**/.aws-sam
 
 ### Windows ###
 # Windows thumbnail cache files

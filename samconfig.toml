@@ -21,9 +21,6 @@ s3_prefix = "sam-app"
 region = "eu-west-2"
 image_repositories = []
 
-[default.package.parameters]
-resolve_s3 = false
-
 [default.sync.parameters]
 watch = true
 
